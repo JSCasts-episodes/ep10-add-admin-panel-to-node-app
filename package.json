@@ -1,0 +1,25 @@
+{
+  "name": "ep7",
+  "version": "1.0.0",
+  "description": "JSCasts - episode 7",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Wojciech Krysiak",
+  "license": "ISC",
+  "dependencies": {
+    "admin-bro": "^0.6.0",
+    "admin-bro-expressjs": "^0.1.5",
+    "admin-bro-mongoose": "^0.2.0",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "express-async-errors": "^3.1.1",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.4.9"
+  },
+  "devDependencies": {
+    "dotenv": "^6.2.0"
+  }
+}
